@@ -1,0 +1,49 @@
+body {
+    background-image: url(background.png);
+    background-repeat: repeat-x;
+    font-family: Georgia;
+}
+
+h1 {
+    text-align: center;
+    font-family:  Comic Sans MS;
+    font-size: 60px;
+    color: darkblue;
+}
+
+h4 {
+    text-align: center;
+    font-style: italic;
+}
+
+h3 {
+    text-align: center;
+}
+.murod {
+    color: salmon;
+    font-variant-caps: petite-caps;
+}
+
+.murod:hover {
+    color: red;
+}
+
+.murod2 {
+    color: blue;
+    font-weight: bold;
+}
+
+.murod2:hover {
+    background-color: blue;
+    color: white;
+
+}
+
+.pertama {
+    text-align: center;
+    color: orange;
+}
+
+.kedua {
+    text-align: right;
+}
