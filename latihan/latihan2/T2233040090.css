@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+    font-family: Helvetica;
+    color: white;
+  }
+  
+  td {
+    background-color: gray;
+  }
+  
+  a {
+    text-decoration: none;
+    color: lightblue;
+  }
+  
+  a:hover {
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+  }
+
+  .Re4 {
+    height: 160px;
+  }
+  
+  .swim {
+    height: 160px;
+  }
+
+  .heart {
+    height: 160px;
+  }
+
+  .tanjiro {
+    height: 160px;
+  }
